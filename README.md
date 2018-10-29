@@ -1,3 +1,3 @@
-# Quiz16
+# Simple Weather App
 
 Weather API
